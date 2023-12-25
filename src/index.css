@@ -129,3 +129,8 @@
     background: rgba(255, 255, 255, 0.6);
     filter: blur(750px);
 }
+
+.client-logo:hover {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
